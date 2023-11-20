@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <strong  style="font-size: 100 px;"> Bundesligatabelle - Flask Webanwendung </strong>
+   <h1  style="font-size: 100 px;"> Bundesligatabelle - Flask Webanwendung </h1>
    <br>
   <img src="https://www.derbystar.de/cdn/shop/articles/derbystar-bl_omb_2023-24-4.jpg?v=1686039914&width=1400" alt="Bundesliga Logo" width="800"/>
 </p>
