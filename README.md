@@ -1,27 +1,25 @@
-# Bundesligatabelle - Flask Webanwendung
+# ![Bundesliga Logo](URL_des_Bildes) Bundesligatabelle - Flask Webanwendung
 
-## Über das Projekt
+## 🌟 Über das Projekt
 
 Diese Webanwendung ermöglicht es Benutzern, eine Bundesliga-Saison zu verfolgen und zu verwalten. Sie bietet Funktionen wie Benutzerlogin, Pflege von Mannschaften, Spieltagen, Paarungen und Ergebnissen sowie die Anzeige des aktuellen Tabellenstands.
 
-### Funktionen
+### 🚀 Funktionen
 
-- **Benutzerlogin**: Unterschiedliche Zugriffsebenen für Endbenutzer, Moderatoren und Admins.
-- **Mannschaftspflege**: Moderatoren können Mannschaften hinzufügen, bearbeiten und löschen.
-- **Spieltagsverwaltung**: Pflege der Spieltage und ihrer Paarungen.
-- **Ergebnispflege**: Eintragen und Bearbeiten der Ergebnisse je Paarung.
-- **Tabellenansicht**: Anzeige des aktuellen Tabellenstands basierend auf den offiziellen Bundesligaregeln.
-- **Benutzerverwaltung**: Admins können Benutzerkonten verwalten.
+- **🔐 Benutzerlogin**: Unterschiedliche Zugriffsebenen für Endbenutzer, Moderatoren und Admins.
+- **⚽ Mannschaftspflege**: Moderatoren können Mannschaften hinzufügen, bearbeiten und löschen.
+- **📅 Spieltagsverwaltung**: Pflege der Spieltage und ihrer Paarungen.
+- **📊 Ergebnispflege**: Eintragen und Bearbeiten der Ergebnisse je Paarung.
+- **🏆 Tabellenansicht**: Anzeige des aktuellen Tabellenstands basierend auf den offiziellen Bundesligaregeln.
+- **👤 Benutzerverwaltung**: Admins können Benutzerkonten verwalten.
 
-### Technologien
+### 🛠 Technologien
 
 - **Backend**: Flask (Python)
 - **Datenbank**: MySQL
 - **Frontend**: HTML, CSS, JavaScript
 
-## Installation und Nutzung
-
-Beschreiben Sie hier, wie man das Projekt lokal einrichten und nutzen kann.
+## 💻 Installation und Nutzung
 
 ### Voraussetzungen
 
