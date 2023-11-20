@@ -1,6 +1,6 @@
 
 
-   <h1  style="font-size: 100 px;align:"center""> Bundesligatabelle - Flask Webanwendung </h1>
+   <h1  style="font-size: 100 px"> Bundesligatabelle - Flask Webanwendung </h1>
 
 <p align="center">
    <br>
