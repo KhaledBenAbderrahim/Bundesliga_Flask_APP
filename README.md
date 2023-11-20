@@ -1,9 +1,8 @@
  Bundesligatabelle - Flask Webanwendung
 
-# ![Bundesliga Logo](https://www.derbystar.de/cdn/shop/articles/derbystar-bl_omb_2023-24-4.jpg?v=1686039914&width=1400)
 
 <p align="center">
-  <img src="https://www.derbystar.de/cdn/shop/articles/derbystar-bl_omb_2023-24-4.jpg?v=1686039914&width=1400" alt="Bundesliga Logo" width="200"/>
+  <img src="https://www.derbystar.de/cdn/shop/articles/derbystar-bl_omb_2023-24-4.jpg?v=1686039914&width=1400" alt="Bundesliga Logo" width="800"/>
 </p>
 
 
